@@ -66,7 +66,3 @@ app.post("/hook", Digiflazz.webhook(digiflazz), (req) => {
   // result webhook dapat diakses di req.digiwebhooks
 });
 ```
-
-### Author
-
-[Lutz Dev](https://lutzdev.tech)
