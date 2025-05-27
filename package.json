@@ -1,7 +1,7 @@
 {
   "name": "jywa-digi",
-  "version": "1.0.0",
-  "description": "Intinya mempermudah lu buat integrasiin digiflazz ke aplikasi nodejs lu :)",
+  "version": "1.0.1",
+  "description": "A Node.js wrapper for the Digiflazz API",
   "main": "index.js",
   "repository": {
     "type": "git",
