@@ -1,0 +1,30 @@
+{
+  "name": "jywa-digi",
+  "version": "1.0.0",
+  "description": "Intinya mempermudah lu buat integrasiin digiflazz ke aplikasi nodejs lu :)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WJayadana/jywa-digi.git"
+  },
+  "keywords": [
+    "jywa",
+    "digi",
+    "digiflazz",
+    "digiflazz-api",
+    "digiflazz-nodejs",
+    "digiflazz-api-nodejs",
+    "digiflazz-node",
+    "jayadana"
+  ],
+  "author": "Jayadana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WJayadana/jywa-digi/issues"
+  },
+  "homepage": "https://github.com/WJayadana/jywa-digi#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
